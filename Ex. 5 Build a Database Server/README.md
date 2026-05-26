@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Mubarak R
+* **Register Number**: 212224220066
+* **Date of Submission**: 26-5-26
 
 ---
 
@@ -96,19 +96,23 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+<img width="1211" height="611" alt="image" src="https://github.com/user-attachments/assets/8fa26d72-991b-4c25-98e5-9863d8e22237" />
+
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+
+<img width="1228" height="621" alt="image" src="https://github.com/user-attachments/assets/4eaadd33-9b7a-4376-a7ba-bd2e1a11204e" />
+
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+<img width="1211" height="706" alt="image" src="https://github.com/user-attachments/assets/6220f3ca-b50c-4181-91cc-68d6ce2b357a" />
+
 
 ---
 
