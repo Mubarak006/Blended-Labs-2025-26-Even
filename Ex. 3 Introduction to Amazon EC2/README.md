@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: MUBARAK R
+* **Register Number**: 212224220066
+* **Date of Submission**: 3-6-26
 
 ---
 
@@ -38,7 +38,6 @@ The objective of this experiment is to understand the fundamentals of Amazon Ela
 ### Task 1: Explore Amazon EC2 Dashboard
 
 Explore the EC2 service dashboard in the AWS Management Console. Observe the different sections such as Instances, AMIs, Instance Types, Key Pairs, Security Groups, and Elastic IPs.
-
 ---
 
 ### Task 2: Launch an EC2 Instance
@@ -110,19 +109,25 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1210" height="588" alt="image" src="https://github.com/user-attachments/assets/e99fbce3-7e79-4fe8-824c-060797bc20f5" />
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1209" height="690" alt="image" src="https://github.com/user-attachments/assets/d31315d7-97fe-4c61-b666-632846c341c5" />
+
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="1217" height="582" alt="image" src="https://github.com/user-attachments/assets/e6c6baa6-db7d-4c16-930c-44fd024602c8" />
+
+<img width="1227" height="532" alt="image" src="https://github.com/user-attachments/assets/2663d706-b35b-400e-88be-a23d677563cc" />
+
+
 
 ---
 
